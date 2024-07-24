@@ -12,12 +12,6 @@ I have taught SAS, Python, Excel, and Tableau to hundreds of students at Concord
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-▶ AI & ML skills: Data Cleaning and Manipulation, Data Visualization, Feature Engineering, Predictive Modeling, Machine Learning and Deep Learning Algorithms, Natural Language Processing, Time Series Forecasting, Large Language Models, Statistical Analysis  
-▶ Python: Proficient with NumPy, Pandas, Scikit-learn, Keras, PyTorch, Matplotlib, Hugging Face (4+ years)  
-▶ SQL: Experienced in SQL for data management and analysis (3+ years)  
-▶ Excel, Tableau, Power BI: Skilled in data visualization and reporting tools (1+ year)  
-▶ AWS Services, Git, Spark, Shell Scripting: Limited Experience (1+ year)  
-
-- 🌱 I’m currently learning AWS services.
+- 🌱 I’m currently learning cloud services, in particular AWS.
 - 👯 I’m looking to collaborate on ML/AI research projects.
 - 📫 How to reach me: Bahareh.Amirshahi@gmail.com
