@@ -1,8 +1,6 @@
 ## Hi, I'm Bahareh Amirshahi 👋 👩‍💻 👩‍🎓 🇮🇷 🇨🇦
 
-I am a data science professional specialized in predictive modeling using Machine Learning and Deep Learning algorithms. I have a Ph.D. in Business Analytics from John Molson School of Business, Concordia University. Over the past three years, I have conducted several data science research projects within the finance domain. In my PhD thesis, I integrated various algorithms and developed new feature engineering methods to extract high-quality data from diverse sources. This approach led to performance improvements of up to 20% in predicting cryptocurrency market trends, prices, and volatility.
-
-I have taught SAS, Python, Excel, and Tableau to hundreds of students at Concordia University. Additionally, I have over four years of experience in the software development industry. As an ERP Business Analyst, I was involved in delivering software solutions to clients in an agile environment by collaborating with the development team, creating financial reports using SQL and report designer tools, and managing and analyzing customer data using SQL Server.
+I am a data science professional specialized in predictive modeling using Machine Learning and Deep Learning algorithms. I have a PhD in Business Analytics from John Molson School of Business, Concordia University. Over the past three years, I have conducted several data science research projects within the finance domain. In my PhD thesis, I integrated various algorithms and developed new feature engineering methods to extract high-quality data from diverse sources. This approach led to performance improvements of up to 20% in predicting cryptocurrency market trends, prices, and volatility.
 
 🛠️ Languages and Tools I use:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
