@@ -1,6 +1,6 @@
 ## Hi, I'm Bahareh Amirshahi 👋 👩‍💻 👩‍🎓 
 
-A Ph.D. graduate in Business Analytics with 7+ years of combined research and industry experience, specializing in predictive modeling using machine learning, deep learning, and natural language processing (NLP). Passionate about solving business problems and building solutions using AI and ML.
+A Data Scientist / ML Researcher, specializing in predictive modeling using machine learning, deep learning, and natural language processing (NLP). Passionate about solving business problems and building solutions using AI and ML.
 
 🛠️ Languages and Tools I use:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
