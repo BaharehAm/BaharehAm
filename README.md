@@ -10,6 +10,5 @@ A Data Scientist / ML Researcher, specializing in predictive modeling using mach
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-- 📫 How to reach me: Bahareh.Amirshahi@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/bahareh-amirshahi/) 
-- [Google Scholar](https://scholar.google.com/citations?user=iaHNBysAAAAJ&hl=en&oi=ao)
+How to reach me: Bahareh.Amirshahi@gmail.com
+
